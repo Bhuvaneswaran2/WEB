@@ -22,7 +22,9 @@ cat << setup
 ********************************************************************************************============================================================================================
 Setup a Password and Remember
 Enter Yes to All
-Finally Change the password on database.php
+Finally Change the password 
+change the connection localhost=127.0.0.1
+change the password in your password
 ============================================================================================********************************************************************************************
 setup
 sudo mysql_secure_installation
